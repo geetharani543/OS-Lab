@@ -11,6 +11,8 @@ File Commands:
 ![screenshot](1a-7.png)
 cp command:
 ![screenshot](1b-1.png)
+ls command:
 ![screenshot](1b-2.png)
+grep command:
 ![screenshot](1b-3.png)
 
