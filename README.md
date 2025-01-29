@@ -5,5 +5,7 @@ Date Commands:
 ![screenshot](1a-3.png)
 ![screenshot](1a-4.png)
 ![screenshot](1a-5.png)
+Directory commands:
+![screenshot](1a-6.png)
 
 
