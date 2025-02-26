@@ -17,8 +17,8 @@ grep command:
 ![screenshot](1b-3.png)
 To implement UNIX operating system calls fork, exec, getpid,exit,wait,close,stat,opendir and readdir:
 ![screenshot](2a.png)
-Experiment-3
 ![screenshot](exp-3.png)
 ![screenshot](3-1.png)
 ![screenshot](3-2.png)
+
 
