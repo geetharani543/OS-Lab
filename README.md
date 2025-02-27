@@ -19,3 +19,4 @@ To implement UNIX operating system calls fork, exec, getpid,exit,wait,close,stat
 ![screenshot](2a.png)
 Experiment 4
 ![screenshot](3.png)
+![screenshot](4-2.png)
