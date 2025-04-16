@@ -45,7 +45,14 @@ Experiment 11
 ![screenshot](11.png)
 Experiment 12
 ![screenshot](12.png)
-
+Virtual Lab-1
+![screenshot](virtual-1(1).png)
+![screenshot](virtual-1(2).png)
+Virtual Lab-2
+![screenshot](virtual-2.png)
+    
+        
+    
 
 
 
